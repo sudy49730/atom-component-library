@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Sacramento&display=swap");
+@import "tailwindcss";
+
+
+* {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+}
+
+.special-font {
+  font-family: "Sacramento", sans-serif;
+  font-size: 32px;
+  font-weight: lighter;
+}
